@@ -76,13 +76,19 @@ public class index1 {
         // 例子输入数字判断是否是6的倍数
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
-        Scanner sd = new Scanner(System.in);
-        int Number = sd.nextInt();
+        int Number = sc.nextInt();
         if (number == 6 || Number == 6 || (number + Number) % 6 == 0) {
             System.out.println("true");
         } else {
             System.out.println("false");
         }
 
+        // 三元运算符和运算符的优先级(先乘除后加减)问题
+        int numa = 150;
+        int numb = 120;
+        int numc = 170;
+        int max = numa > numb ? numa : numb;
+        max = max > numc ? max : numc;
+        System.out.println(max);
     }
 }
