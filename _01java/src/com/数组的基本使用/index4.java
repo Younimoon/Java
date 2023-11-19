@@ -94,5 +94,8 @@ public class index4 {
             Arr1[Arr1.length - i - 1] = mid;
         }
         System.out.println(Arrays.toString(Arr1));
+
+        // 数组的内存图详解
+
     }
 }
