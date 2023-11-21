@@ -5,36 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/ArrayLest的知识/基本使用/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/ArrayLest的练习/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/javabean的例子/user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/static的注意事项/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/string的知识/stringBuilder的使用/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/string的知识/stringjoiner的使用/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/string的知识/string的内存分配/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/string的知识/初始string/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/string的知识/字符串的比较/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/三种类的区别/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/内存分配问题/index5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/多态相关的知识/认识多态/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/对象的内存分配问题/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/对象的权限修饰符/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/对象的设计/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/对象的设计/indexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/工具类的使用/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/方法的认识/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的初始/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的初始/index1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的设计/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/静态变量/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/面向对象/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/面向对象/indexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/java的知识点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/java的数据类型/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/lambda/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/内部类的使用/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/内部类的使用/匿名内部类/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/内部类的使用/成员内部类/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/常见api/object和objects/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/常见api/runtime/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/常见api/system/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和抽象方法的使用/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和接口的结合例子/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和接口的结合例子/PingPong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和接口的结合例子/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和接口的结合例子/coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和接口的结合例子/inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/抽象类和接口的结合例子/spotter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口和类之间的关系/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口和类之间的关系/inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口和类之间的关系/接口之间的关系/interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的基本使用/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的基本使用/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的成员和接口的关系/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的成员和接口的关系/inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的成员和接口的关系/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的成员和接口的关系/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的新增方法和运用和适配器/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/接口的新增方法和运用和适配器/inter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/适配器设计模式/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/适配器设计模式/inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/枚举/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/枚举/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/super关键字的使用/constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/super关键字的使用/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/java的修饰符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/java的实战/力扣/index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/数组的基本使用/index4.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/数组的基本使用/index4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/idea的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/idea的基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/数组的基本使用/index4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/数组的基本使用/index4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/idea的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/idea的基本使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/ArrayLest的练习/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/ArrayLest的练习/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的初始/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的初始/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的初始/index1.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的初始/index1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的设计/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/继承的相关知识/继承的设计/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/java的知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/ArrayLest的练习/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/ArrayLest的练习/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/继承的相关知识/继承的初始/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/继承的相关知识/继承的初始/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/继承的相关知识/继承的初始/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/继承的相关知识/继承的初始/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/继承的相关知识/继承的初始/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/继承的相关知识/继承的初始/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +62,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_01java/src/com/内部类的使用/index.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,13 +109,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.继承的相关知识.继承的初始.index (1)">
-    <configuration name="com.ArrayLest的知识.基本使用.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ArrayLest的知识.基本使用.index" />
+  <component name="RunManager" selected="Application.com.常见api.object和objects.index">
+    <configuration name="com.内部类的使用.成员内部类.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.内部类的使用.成员内部类.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ArrayLest的知识.基本使用.*" />
+          <option name="PATTERN" value="com.内部类的使用.成员内部类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.继承的相关知识.继承的初始.index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.继承的相关知识.继承的初始.index" />
+    <configuration name="com.内部类的使用.匿名内部类.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.内部类的使用.匿名内部类.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.继承的相关知识.继承的初始.*" />
+          <option name="PATTERN" value="com.内部类的使用.匿名内部类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.继承的相关知识.继承的初始.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.继承的相关知识.继承的初始.index" />
+    <configuration name="com.内部类的使用.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.内部类的使用.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.继承的相关知识.继承的初始.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.静态变量.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.静态变量.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.静态变量.*" />
+          <option name="PATTERN" value="com.内部类的使用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +162,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.string的知识.stringjoiner的使用.index" />
+    <configuration name="com.常见api.object和objects.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.常见api.object和objects.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.string的知识.stringjoiner的使用.*" />
+          <option name="PATTERN" value="com.常见api.object和objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.常见api.system.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.常见api.system.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.常见api.system.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.继承的相关知识.继承的初始.index (1)" />
-        <item itemvalue="Application.com.继承的相关知识.继承的初始.index" />
-        <item itemvalue="Application.com.ArrayLest的知识.基本使用.index" />
-        <item itemvalue="Application.com.静态变量.index" />
-        <item itemvalue="Application.index" />
+        <item itemvalue="Application.com.常见api.object和objects.index" />
+        <item itemvalue="Application.com.常见api.system.index" />
+        <item itemvalue="Application.com.内部类的使用.匿名内部类.index" />
+        <item itemvalue="Application.com.内部类的使用.成员内部类.index" />
+        <item itemvalue="Application.com.内部类的使用.index" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +213,9 @@
       <workItem from="1700227606773" duration="10855000" />
       <workItem from="1700274112407" duration="14583000" />
       <workItem from="1700360287510" duration="12356000" />
-      <workItem from="1700395103345" duration="6524000" />
+      <workItem from="1700395103345" duration="7326000" />
+      <workItem from="1700442044937" duration="17197000" />
+      <workItem from="1700527791728" duration="18918000" />
     </task>
     <servers />
   </component>
