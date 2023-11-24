@@ -27,3 +27,28 @@ javabean类的使用标准：
  重载：在一个类当中通过使用相同的方法名
         但不同的参数列表的方法来定义多个方法，
         不同参数的方法可以有不同的实现
+ 
+7.基本数据类型对应的引用数据类型
+
+Boolean：对应 boolean 型数据
+
+Byte：对应 byte 型数据
+
+Character：对应 char 型数据
+
+Short：对应 short 型数据
+
+Integer：对应 int 型数据
+
+Long：对应 long 型数据
+
+Float：对应 float 型数据
+
+Double：对应 double 型数据
+
+8.集合的使用特点：
+1. 如果集合中元素可以重复：使用arraylist
+2. 如果元素可重复且当前的增删操作明显多于查询：使用linkedlist
+3. 如果对元素内容去重：使用hashset
+4. 如果需要元素去重+排序：使用treeset
+5. 如果需要元素去重且保存存储顺序：使用linkedhashset

@@ -14,4 +14,8 @@ https://zhuanlan.zhihu.com/p/410613271
 ctrl+shirt+逗号一键生成javabean类
 
 
+map set list 的关系图
+![img_2.png](img_2.png)
+
+
 
