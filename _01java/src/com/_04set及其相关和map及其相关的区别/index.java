@@ -11,6 +11,11 @@ import java.util.*;
 // 并且没有重复对象，但它能对集合中的对象按照特定的方式排序，例如 TreeSet 类。
 
 
+
+// 对于map
+// 如果需要排序使用treemap，反之hashmap
+//需要高效的查找和获取操作，并且对键的排序和有序性没有特别要求，使用hashmap
+
 // set list 都是继承接口Collection的接口
 public class index {
     public static void main(String[] args) {

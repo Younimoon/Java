@@ -5,53 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_01树的数据结构/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_02set集合/hashset/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_02set集合/treeset/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_02set集合/treeset/例子/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/hashmap/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/hashmap/例子/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/linkedhashmap/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/treemap/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/treemap/利用treemap进行统计/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_03map/treemap/键改为自定义对象/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_04set及其相关和map及其相关的区别/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/_01arraylist集合/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/_02泛型/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/_03泛型的继承和通配符/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/_04泛型练习/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/linkedList/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/数据结构/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/lambda/例子/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/多态相关的知识/多态的实战/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/多态相关的知识/认识多态/接口类型的多态/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/多态相关的知识/调用成员的特点/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/接口的相关知识/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/集合的进阶/Collection/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/集合的进阶/Collection/list相关的集合/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/集合的进阶/Collection/增强for遍历/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/集合的进阶/Collection/遍历方式/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/集合的进阶/Map/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/集合的进阶/三种结合的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/自我尝试/接口和类的问题/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/map相关的案例/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/可变参数的练习/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/点名器/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/终极项目/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/终极项目/pokerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_06集合工具类/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的思想和获取stream流/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/初识stream流/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_08不可变集合/index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/lambda/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/lambda/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/内部类的使用/匿名内部类/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/内部类的使用/匿名内部类/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/多态相关的知识/认识多态/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/多态相关的知识/认识多态/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/idea的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/idea的基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/java的实战/力扣/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/java的实战/力扣/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/java的知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/_03map/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_03map/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/_04set及其相关和map及其相关的区别/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_04set及其相关和map及其相关的区别/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/静态变量/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/静态变量/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/META-INF/_01java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_03map/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_03map/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_04set及其相关和map及其相关的区别/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_04set及其相关和map及其相关的区别/index.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/多态相关的知识/认识多态/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/多态相关的知识/认识多态/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/常见api/object和objects/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/常见api/object和objects/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/常见api/object和objects/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/常见api/object和objects/person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/idea的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/idea的基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/java的实战/力扣/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/java的实战/力扣/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/per.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/per.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,16 +85,16 @@
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.内部类的使用.匿名内部类.index">
-    <configuration name="com._03map.treemap.键改为自定义对象.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._03map.treemap.键改为自定义对象.index" />
+  <component name="RunManager" selected="Application.com._07stream相关的知识.stream流的思想和获取stream流.index">
+    <configuration name="com._03map.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._03map.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._03map.treemap.键改为自定义对象.*" />
+          <option name="PATTERN" value="com._03map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._03map.treemap.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._03map.treemap.index" />
+    <configuration name="com._07stream相关的知识.初识stream流.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._07stream相关的知识.初识stream流.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._03map.treemap.*" />
+          <option name="PATTERN" value="com._07stream相关的知识.初识stream流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._03map.treemap.利用treemap进行统计.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._03map.treemap.利用treemap进行统计.index" />
+    <configuration name="com._07stream相关的知识.stream流的思想和获取stream流.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._07stream相关的知识.stream流的思想和获取stream流.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._03map.treemap.利用treemap进行统计.*" />
+          <option name="PATTERN" value="com._07stream相关的知识.stream流的思想和获取stream流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.内部类的使用.匿名内部类.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.内部类的使用.匿名内部类.index" />
+    <configuration name="com._08不可变集合.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._08不可变集合.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.内部类的使用.匿名内部类.*" />
+          <option name="PATTERN" value="com._08不可变集合.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java的实战.力扣.index" />
+      <option name="MAIN_CLASS_NAME" value="com._05综合项目.终极项目.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java的实战.力扣.*" />
+          <option name="PATTERN" value="com._05综合项目.终极项目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.内部类的使用.匿名内部类.index" />
-        <item itemvalue="Application.com._03map.treemap.利用treemap进行统计.index" />
+        <item itemvalue="Application.com._07stream相关的知识.stream流的思想和获取stream流.index" />
+        <item itemvalue="Application.com._07stream相关的知识.初识stream流.index" />
+        <item itemvalue="Application.com._08不可变集合.index" />
         <item itemvalue="Application.index" />
-        <item itemvalue="Application.com._03map.treemap.键改为自定义对象.index" />
-        <item itemvalue="Application.com._03map.treemap.index" />
+        <item itemvalue="Application.com._03map.index" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +184,8 @@
       <workItem from="1700527791728" duration="19496000" />
       <workItem from="1700615078438" duration="19840000" />
       <workItem from="1700702713388" duration="22022000" />
-      <workItem from="1700787117153" duration="27472000" />
+      <workItem from="1700787117153" duration="43209000" />
+      <workItem from="1700905972832" duration="6435000" />
     </task>
     <servers />
   </component>

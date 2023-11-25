@@ -46,6 +46,7 @@ public class index {
         //size(): 返回 Map 的大小，即键值对的个数。
 
         //keySet(): 返回包含 Map 所有键的 Set 集合。
+        // map集合无法直接遍历
         Set<String> keys = map.keySet();
         System.out.println(keys);
         // 获取一个set的集合后可以进行遍历
@@ -64,7 +65,7 @@ public class index {
         //entrySet(): 返回包含 Map 所有键值对的 Set 集合，每个键值对都是一个 Map.Entry 对象。
 
         Set<Map.Entry<String, String>> entries = map.entrySet();
-        System.out.println(entries);
+        System.out.println(entries + "1--------------");
         for (Map.Entry<String, String> entry : entries) {
             String key = entry.getKey();
             String value1 = entry.getValue();
