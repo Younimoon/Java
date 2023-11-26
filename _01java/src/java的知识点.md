@@ -52,3 +52,5 @@ Double：对应 double 型数据
 3. 如果对元素内容去重：使用hashset
 4. 如果需要元素去重+排序：使用treeset
 5. 如果需要元素去重且保存存储顺序：使用linkedhashset
+
+9.类型如果是Function 就代表是一个函数式接口

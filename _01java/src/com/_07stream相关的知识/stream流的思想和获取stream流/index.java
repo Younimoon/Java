@@ -8,6 +8,9 @@ import java.util.stream.Stream;
 // 获取一个stream流
 // 加工stream流
 // 终结stream流
+
+// 直接打印一个流，就会打印出一个地址
+// 只有进行遍历才会打印流的数据
 public class index {
     public static void main(String[] args) {
         // 获取stream流

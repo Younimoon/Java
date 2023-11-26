@@ -5,28 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/map相关的案例/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/可变参数的练习/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/点名器/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/终极项目/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_05综合项目/终极项目/pokerGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_06集合工具类/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的思想和获取stream流/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/初识stream流/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_08不可变集合/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_01树的数据结构/stream流的例子/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的终结方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/基本使用/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用成员方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用数组的构造方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用构造方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用静态方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/类名引用成员方法/index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/_03map/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_03map/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/_04set及其相关和map及其相关的区别/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_04set及其相关和map及其相关的区别/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/静态变量/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/静态变量/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/META-INF/_01java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_03map/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_03map/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_04set及其相关和map及其相关的区别/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_04set及其相关和map及其相关的区别/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/per.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/per.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/内部类的使用/匿名内部类/person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的中间方法/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的中间方法/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的思想和获取stream流/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的思想和获取stream流/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/java的知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_07stream相关的知识/stream流的思想和获取stream流/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_07stream相关的知识/stream流的思想和获取stream流/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +80,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com._07stream相关的知识.stream流的思想和获取stream流.index">
-    <configuration name="com._03map.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._03map.index" />
+  <component name="RunManager" selected="Application.com._09方法引用.引用数组的构造方法.index">
+    <configuration name="com._07stream相关的知识.stream流的终结方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._07stream相关的知识.stream流的终结方法.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._03map.*" />
+          <option name="PATTERN" value="com._07stream相关的知识.stream流的终结方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._07stream相关的知识.初识stream流.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._07stream相关的知识.初识stream流.index" />
+    <configuration name="com._09方法引用.引用静态方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用静态方法.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._07stream相关的知识.初识stream流.*" />
+          <option name="PATTERN" value="com._09方法引用.引用静态方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._07stream相关的知识.stream流的思想和获取stream流.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._07stream相关的知识.stream流的思想和获取stream流.index" />
+    <configuration name="com._09方法引用.引用构造方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用构造方法.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._07stream相关的知识.stream流的思想和获取stream流.*" />
+          <option name="PATTERN" value="com._09方法引用.引用构造方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +120,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._08不可变集合.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._08不可变集合.index" />
+    <configuration name="com._09方法引用.类名引用成员方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._09方法引用.类名引用成员方法.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._08不可变集合.*" />
+          <option name="PATTERN" value="com._09方法引用.类名引用成员方法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com._09方法引用.引用数组的构造方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用数组的构造方法.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._09方法引用.引用数组的构造方法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com._09方法引用.引用成员方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用成员方法.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._09方法引用.引用成员方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +160,11 @@
       </method>
     </configuration>
     <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._05综合项目.终极项目.index" />
+      <option name="MAIN_CLASS_NAME" value="com._01树的数据结构.stream流的例子.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._05综合项目.终极项目.*" />
+          <option name="PATTERN" value="com._01树的数据结构.stream流的例子.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com._07stream相关的知识.stream流的思想和获取stream流.index" />
-        <item itemvalue="Application.com._07stream相关的知识.初识stream流.index" />
-        <item itemvalue="Application.com._08不可变集合.index" />
+        <item itemvalue="Application.com._09方法引用.引用数组的构造方法.index" />
+        <item itemvalue="Application.com._09方法引用.类名引用成员方法.index" />
+        <item itemvalue="Application.com._09方法引用.引用构造方法.index" />
+        <item itemvalue="Application.com._09方法引用.引用静态方法.index" />
         <item itemvalue="Application.index" />
-        <item itemvalue="Application.com._03map.index" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +203,8 @@
       <workItem from="1700615078438" duration="19840000" />
       <workItem from="1700702713388" duration="22022000" />
       <workItem from="1700787117153" duration="43209000" />
-      <workItem from="1700905972832" duration="6435000" />
+      <workItem from="1700905972832" duration="27119000" />
+      <workItem from="1701007777950" duration="3449000" />
     </task>
     <servers />
   </component>
