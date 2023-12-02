@@ -5,20 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_01树的数据结构/stream流的例子/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的终结方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/基本使用/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用成员方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用数组的构造方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用构造方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/引用静态方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_09方法引用/类名引用成员方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/copy1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/copy2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_10io流的使用/io的基本使用/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_10io流的使用/文件拷贝和改写/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file常见的成员方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file常见的成员方法/练习.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file的构造方法和概述/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file的构造方法和概述/练习.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/例子/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/文件的创建和删除/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/文件的创建和删除/练习.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/lock锁/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/卖电影票/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/多线程统计并求最大值/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/抢红包/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/抽奖箱抽奖/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/同步方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/多线程常见的成员方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/多线程的创建方法/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/守护线程/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/死锁/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/生产者消费者/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/礼让线程和插入线程/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程生命周期/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程生命周期/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程生命周期/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程的优先级/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程的安全问题/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/阻塞队列实现等待唤醒机制/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_14线程池/自定义线程池/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_14线程池/认识线程池/index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的中间方法/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的中间方法/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的思想和获取stream流/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_07stream相关的知识/stream流的思想和获取stream流/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/java的知识点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_07stream相关的知识/stream流的思想和获取stream流/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_07stream相关的知识/stream流的思想和获取stream流/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/java的知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01java/src/com/_11_23/_02泛型/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/_02泛型/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_09方法引用/引用数组的构造方法/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_09方法引用/引用数组的构造方法/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/per.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/per.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +58,7 @@
         <option value="Enum" />
         <option value="Kotlin Class" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -60,53 +85,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/aaaa-Java/basiccode/_01java/src/com&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/aaaa-Java/basiccode/_01java/src/com",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
-  <component name="RunManager" selected="Application.com._09方法引用.引用数组的构造方法.index">
-    <configuration name="com._07stream相关的知识.stream流的终结方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._07stream相关的知识.stream流的终结方法.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._07stream相关的知识.stream流的终结方法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com._09方法引用.引用静态方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用静态方法.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._09方法引用.引用静态方法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.index (3)">
     <configuration name="com._09方法引用.引用构造方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用构造方法.index" />
       <module name="_01java" />
@@ -159,12 +158,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._01树的数据结构.stream流的例子.index" />
+    <configuration name="com._12File的学习.例子.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._12File的学习.例子.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._01树的数据结构.stream流的例子.*" />
+          <option name="PATTERN" value="com._12File的学习.例子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com._12File的学习.file常见的成员方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._12File的学习.file常见的成员方法.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._12File的学习.file常见的成员方法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com._09方法引用.引用数组的构造方法.index" />
-        <item itemvalue="Application.com._09方法引用.类名引用成员方法.index" />
-        <item itemvalue="Application.com._09方法引用.引用构造方法.index" />
-        <item itemvalue="Application.com._09方法引用.引用静态方法.index" />
+        <item itemvalue="Application.index (3)" />
+        <item itemvalue="Application.index (2)" />
+        <item itemvalue="Application.index (1)" />
         <item itemvalue="Application.index" />
+        <item itemvalue="Application.index (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +281,10 @@
       <workItem from="1700702713388" duration="22022000" />
       <workItem from="1700787117153" duration="43209000" />
       <workItem from="1700905972832" duration="27119000" />
-      <workItem from="1701007777950" duration="3449000" />
+      <workItem from="1701007777950" duration="3573000" />
+      <workItem from="1701091194617" duration="5726000" />
+      <workItem from="1701178169192" duration="1270000" />
+      <workItem from="1701265956135" duration="39203000" />
     </task>
     <servers />
   </component>
@@ -224,6 +304,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_01java/src/com/数组的基本使用/index4.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

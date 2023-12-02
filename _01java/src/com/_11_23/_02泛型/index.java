@@ -76,23 +76,25 @@ class myArrayList<E> {
     }
 }
 
+interface per<S> {
+    S call(S sb);
+}
 // 泛型接口
 // 使用方法
 // 1 实现类给具体类型
+
 class mst implements per<String>{
     @Override
-    public void call(String sb) {
-
+    public String call(String sb) {
+        return null;
     }
 }
 // 2 实现类延续泛型 创建对象时再确定
 class mst2<T> implements per<T>{
     @Override
-    public void call(T sb) {
-
+    public T call(T sb) {
+        return null;
     }
 }
 
-interface per<S>{
-    void call(S sb);
-}
+
