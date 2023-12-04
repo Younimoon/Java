@@ -9,6 +9,7 @@ public class index {
 //        单播：以前的代码形式
 //        组播：组播地址224.0.0.0-239.255.255.255 其中224.0.0.0-224.0.0.255 为预留的组播地址
 
+        // 多个接收端，都可以接受到发送端发送的消息
         MulticastSocket ms = new MulticastSocket();
 
         String str = "你好啊，朋友";
@@ -18,6 +19,8 @@ public class index {
         DatagramPacket dp = new DatagramPacket(bytes, 0, bytes.length, address, port);
         ms.send(dp);
         ms.close();
-//        广播
+
+//        广播 ：对应的ip是255.255.255.255
+
     }
 }
