@@ -14,7 +14,7 @@ public class index {
         String str = "你好啊，朋友";
         byte[] bytes = str.getBytes();
         int port = 10086;
-        InetAddress address = InetAddress.getByName("224.0.0.1");
+        InetAddress address = InetAddress.getByName("224.0.0.2");
         DatagramPacket dp = new DatagramPacket(bytes, 0, bytes.length, address, port);
         ms.send(dp);
         ms.close();
