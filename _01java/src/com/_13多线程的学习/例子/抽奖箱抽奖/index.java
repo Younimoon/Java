@@ -18,7 +18,6 @@ public class index {
         Thread th2 = new Thread(mt, "抽奖箱二");
         th1.start();
         th2.start();
-
     }
 }
 

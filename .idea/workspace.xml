@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_01java/copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/copy1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/copy2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_10io流的使用/io的基本使用/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_10io流的使用/文件拷贝和改写/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file常见的成员方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file常见的成员方法/练习.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file的构造方法和概述/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/file的构造方法和概述/练习.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/例子/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/文件的创建和删除/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_12File的学习/文件的创建和删除/练习.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/lock锁/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/卖电影票/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/多线程统计并求最大值/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/抢红包/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/例子/抽奖箱抽奖/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/同步方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/多线程常见的成员方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/多线程的创建方法/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/守护线程/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/死锁/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/生产者消费者/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/礼让线程和插入线程/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程生命周期/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程生命周期/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程生命周期/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程的优先级/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/线程的安全问题/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_13多线程的学习/阻塞队列实现等待唤醒机制/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_14线程池/自定义线程池/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01java/src/com/_14线程池/认识线程池/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01java/src/com/_11_23/_02泛型/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01java/src/com/_11_23/_02泛型/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_09方法引用/引用数组的构造方法/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_09方法引用/引用数组的构造方法/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/mst2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/per.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_01java/com/_11_23/_02泛型/per.class" afterDir="false" />
-    </list>
+    <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,10 +63,10 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.index (3)">
+  <component name="RunManager" selected="Application.com._15网络编程._02interAdress的对象.index">
     <configuration name="com._09方法引用.引用构造方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用构造方法.index" />
       <module name="_01java" />
@@ -184,12 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+    <configuration name="com._15网络编程._02interAdress的对象.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._15网络编程._02interAdress的对象.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="PATTERN" value="com._15网络编程._02interAdress的对象.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +172,11 @@
       </method>
     </configuration>
     <configuration name="index (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,24 +185,11 @@
       </method>
     </configuration>
     <configuration name="index (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="index (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +198,11 @@
       </method>
     </configuration>
     <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.抽奖箱抽奖.index" />
+      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.抽奖箱抽奖.*" />
+          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com._15网络编程._02interAdress的对象.index" />
         <item itemvalue="Application.index (3)" />
+        <item itemvalue="Application.index" />
         <item itemvalue="Application.index (2)" />
         <item itemvalue="Application.index (1)" />
-        <item itemvalue="Application.index" />
-        <item itemvalue="Application.index (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +245,8 @@
       <workItem from="1701007777950" duration="3573000" />
       <workItem from="1701091194617" duration="5726000" />
       <workItem from="1701178169192" duration="1270000" />
-      <workItem from="1701265956135" duration="39203000" />
+      <workItem from="1701265956135" duration="43967000" />
+      <workItem from="1701697522224" duration="1181000" />
     </task>
     <servers />
   </component>
