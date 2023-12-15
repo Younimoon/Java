@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="" />
+    <list default="true" id="01c18d5d-0385-4e13-8939-5de1e33ea06a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_15网络编程/_04tcp的学习/认识tcp/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_15网络编程/_04tcp的学习/认识tcp/recieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_16反射的学习/_01获取class对象.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_16反射的学习/_02通过反射获取构造方法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_16反射的学习/_03获取成员变量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_16反射的学习/_04获取成员方法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01java/src/com/_16反射的学习/_被调用的类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_15网络编程/_03Udp协议/index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_15网络编程/_04tcp的学习/认识tcp/index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_15网络编程/_04tcp的学习/认识tcp/recieve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_16反射的学习/_01获取class对象.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_16反射的学习/_02通过反射获取构造方法.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_16反射的学习/_03获取成员变量.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_16反射的学习/_04获取成员方法.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_16反射的学习/_被调用的类.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_01java/com/_16反射的学习/demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +72,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/aaaa-Java/basiccode/_01java/src/com",
+    "last_opened_file_path": "D:/aaaa-Java/basiccode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,16 +81,16 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com._15网络编程._02interAdress的对象.index">
-    <configuration name="com._09方法引用.引用构造方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._09方法引用.引用构造方法.index" />
+  <component name="RunManager" selected="应用程序._04获取成员方法">
+    <configuration name="_02通过反射获取构造方法 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._16反射的学习._02通过反射获取构造方法" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._09方法引用.引用构造方法.*" />
+          <option name="PATTERN" value="com._16反射的学习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +98,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._09方法引用.类名引用成员方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._09方法引用.类名引用成员方法.index" />
+    <configuration name="_02通过反射获取构造方法 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._16反射的学习._02通过反射获取构造方法" />
       <module name="_01java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com._09方法引用.类名引用成员方法.*" />
+          <option name="PATTERN" value="com._16反射的学习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02通过反射获取构造方法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._16反射的学习._02通过反射获取构造方法" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._16反射的学习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03获取成员变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._16反射的学习._03获取成员变量" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._16反射的学习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04获取成员方法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._16反射的学习._04获取成员方法" />
+      <module name="_01java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._16反射的学习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,104 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com._12File的学习.例子.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._12File的学习.例子.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._12File的学习.例子.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com._12File的学习.file常见的成员方法.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._12File的学习.file常见的成员方法.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._12File的学习.file常见的成员方法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com._15网络编程._02interAdress的对象.index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._15网络编程._02interAdress的对象.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._15网络编程._02interAdress的对象.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="index (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="index (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="index (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._13多线程的学习.例子.多线程统计并求最大值.index" />
-      <module name="_01java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com._13多线程的学习.例子.多线程统计并求最大值.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com._15网络编程._02interAdress的对象.index" />
-        <item itemvalue="Application.index (3)" />
-        <item itemvalue="Application.index" />
-        <item itemvalue="Application.index (2)" />
-        <item itemvalue="Application.index (1)" />
+        <item itemvalue="应用程序._04获取成员方法" />
+        <item itemvalue="应用程序._03获取成员变量" />
+        <item itemvalue="应用程序._02通过反射获取构造方法 (2)" />
+        <item itemvalue="应用程序._02通过反射获取构造方法 (1)" />
+        <item itemvalue="应用程序._02通过反射获取构造方法" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +213,11 @@
       <workItem from="1701178169192" duration="1270000" />
       <workItem from="1701265956135" duration="43967000" />
       <workItem from="1701697522224" duration="1181000" />
+      <workItem from="1701698720669" duration="2036000" />
+      <workItem from="1701782513805" duration="124000" />
+      <workItem from="1701782648547" duration="282000" />
+      <workItem from="1701786397902" duration="37000" />
+      <workItem from="1702647408437" duration="7218000" />
     </task>
     <servers />
   </component>
